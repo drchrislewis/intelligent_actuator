@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 # Software License Agreement (Apache License)
 # 
@@ -14,8 +15,6 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-#!/usr/bin/env python
 
 from robo_cylinder.srv import *
 

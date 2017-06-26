@@ -1,3 +1,4 @@
+#!/usr/bin/env python  
 
 # Software License Agreement (Apache License)
 # 
@@ -15,7 +16,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-#!/usr/bin/env python  
 import roslib
 import rospy
 
